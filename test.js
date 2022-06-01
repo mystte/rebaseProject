@@ -3,3 +3,7 @@ const data = {
     b: 2,
     c: 3
 }
+
+const data2 = {
+    a: 1,
+}
